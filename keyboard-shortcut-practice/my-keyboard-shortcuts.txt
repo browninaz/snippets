@@ -13,3 +13,6 @@ Ctrl + H > Use regular expressions > enter ^$\n on the find line > Replace all =
 Ctrl + shift + L = Selects all of the one element that is highlighted
 Crtl + shift + G = Source control view for detected repositories
 Ctrl + shift + L = Command palette
+
+*-----------Navigation--------------*
+Shift + End or Home = Select line before or after cursor
