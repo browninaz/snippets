@@ -1,0 +1,1 @@
+# This repo is used for code snippets collections and general practice.
