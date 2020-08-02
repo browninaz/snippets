@@ -1,0 +1,15 @@
+Shift + Alt + F = Format document (Clean up code)
+Ctrl + O = Opens File Explorer
+Ctrl + P = Search for file in open folder. Right arrow opens in the next tab. Ctrl + Enter splits window.
+Ctrl + R = Switch workspaces
+Ctrl + G = Go to specific line
+Ctrl + Shift + P = Command Palette (Search for Open Keyboard shortcuts to open window)
+Atl + Z = Wrap text in editor
+Ctrl + Z = Undo
+Ctrl + Y = Redo
+Alt + up arrow = Move line up
+! + tab = Sets up all the element tags in the document
+Ctrl + H > Use regular expressions > enter ^$\n on the find line > Replace all = Remove blank lines
+Ctrl + shift + L = Selects all of the one element that is highlighted
+Crtl + shift + G = Source control view for detected repositories
+Ctrl + shift + L = Command palette
